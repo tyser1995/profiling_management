@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace profiling_management_net.Controllers
+namespace profiling_management.Controllers
 {
     public class HomeController : Controller
     {

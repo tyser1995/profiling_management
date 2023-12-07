@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace profiling_management_net
+namespace profiling_management
 {
     public class FilterConfig
     {

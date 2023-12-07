@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("profiling_management_net")]
+[assembly: AssemblyTitle("profiling_management")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("profiling_management_net")]
+[assembly: AssemblyProduct("profiling_management")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7a6b41db-5806-4285-b670-3186e2a19a23")]
+[assembly: Guid("120a3dec-7f04-453f-bbda-07eb0e9a7a8b")]
 
 // Version information for an assembly consists of the following four values:
 //

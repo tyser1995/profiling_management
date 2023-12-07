@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace profiling_management_net
+namespace profiling_management
 {
     public class BundleConfig
     {

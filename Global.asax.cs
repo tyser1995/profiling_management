@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace profiling_management_net
+namespace profiling_management
 {
     public class MvcApplication : System.Web.HttpApplication
     {
